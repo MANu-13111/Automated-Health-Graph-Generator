@@ -18,3 +18,9 @@ PANDAS
 MATPLOTLIB
 GLOB
 MPLCURSORS
+
+# outcome of the health  graph generator
+
+The Automated Health Graph Generator can be results in Simple, Easy to Use and more Efficient.
+The final Result of this Project is that the giving a exact output of graphical representation on time.
+It’s saves time, resources as well
