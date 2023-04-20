@@ -15,7 +15,7 @@ merge_data=pd.concat(pd.read_csv(datafile).assign(sourcefilename=datafile)
 for datafile in new_file)
 print(merge_data)
 # for Resetting the index of the merged csv file
-merge_data=merge_data.reset_index()
+#//# merge_data=merge_data.reset_index()
 # for delting the extra unwanted data in the merged csv file
 del merge_data["index"]
 del merge_data["Units"]
@@ -444,7 +444,7 @@ for k in range(len(main_test_names)):
     graphs[main_test_names[k]]=main_testnames[k]
 
 
-def on_pick(event):
+#def on_pick(event):
     leg=event.artist
     isVisible=leg.get_visible()
     graphs[leg].set_visible(isVisible)
