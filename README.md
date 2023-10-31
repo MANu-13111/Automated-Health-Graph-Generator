@@ -4,9 +4,9 @@ To derive meaningful insights from voluminous healthcare data, it is essential t
 
 when we have to upload these final report of the health,its automatically converting in to the .CSV file and its producing the origianl output its format of the Graph.
 
-# HOW TO RUN (ONLY FOR MEE:)
+# HOW TO RUN (ONLY FOR MEE😊::)
 
-open cmd and type code.py
+open cmd and run the code
 
 # Technologies used
 
@@ -21,7 +21,7 @@ MATPLOTLIB
 GLOB
 MPLCURSORS
 
-# outcome of the health  graph generator
+# outcome
 
 The Automated Health Graph Generator can be results in Simple, Easy to Use and more Efficient.
 The final Result of this Project is that the giving a exact output of graphical representation on time.
