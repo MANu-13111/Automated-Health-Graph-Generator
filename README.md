@@ -8,12 +8,12 @@ when we have to upload these final report of the health,its automatically conver
 
 open cmd and run the code
 
-# Technologies used
+# TECHNOLOGIES USED
 
 
 PYTHON
 
-# used packages are 
+# USED PACKAGES ARE
 
 NUMPY
 PANDAS
@@ -21,7 +21,7 @@ MATPLOTLIB
 GLOB
 MPLCURSORS
 
-# outcome
+# OUTCOME
 
 The Automated Health Graph Generator can be results in Simple, Easy to Use and more Efficient.
 The final Result of this Project is that the giving a exact output of graphical representation on time.
